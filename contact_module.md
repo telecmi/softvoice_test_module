@@ -1,9 +1,9 @@
 ## Module - Contact
 
 
-* Enter the name in the search bar and check the result.
+* Enter the saved username or customer name in the search bar, and check if the correct username or customer name is displayed when searching.
 
-* Enter the number into the search bar and check the result.
+* Enter the valid number in the search bar, and check if the correct number is displayed when searching.
 
 * Check if you can add contacts from this section.
 

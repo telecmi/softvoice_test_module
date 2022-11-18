@@ -20,6 +20,6 @@
 
 * Click the call icon button without entering the number and check what happens.
 
-* Check what happens if you enter the wrong number and make a call.
+* Check what happens if you enter the invalid number and make a call.
 
 * Enter the user Extension and make a call and check whether the call goes through or not.
